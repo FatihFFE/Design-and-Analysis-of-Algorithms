@@ -4,3 +4,4 @@ Medium question: https://chat.openai.com/share/298a4358-e6f2-4f89-b937-2af967a49
 Hard question: https://chat.openai.com/share/be9a72f1-5926-46e1-b7a0-050ed222e177
 YouTube Video
 https://www.youtube.com/watch?v=kYVirTH50no
+https://img.youtube.com/vi/kYVirTH50no/maxresdefault.jpg

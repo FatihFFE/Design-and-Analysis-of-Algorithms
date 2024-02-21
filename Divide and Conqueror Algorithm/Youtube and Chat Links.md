@@ -10,4 +10,4 @@ Here is links of chats with OpenAI's ChatGPT and related YouTube video links.
 
 ## YouTube Video
 
-[![YouTube Video](https://img.youtube.com/vi/kYVirTH50no/maxresdefault.jpg)](https://www.youtube.com/watch?v=kYVirTH50no){:target="_blank"}
+[![YouTube Video](https://img.youtube.com/vi/kYVirTH50no/maxresdefault.jpg)](https://www.youtube.com/watch?v=kYVirTH50no)
